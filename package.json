@@ -1,0 +1,33 @@
+{
+  "name": "vue-websockets",
+  "author": "Maksim Blizhin",
+  "version": "3.0.10",
+  "description": "Websockets for Vue.js and Vuex",
+  "main": "dist/vue-websockets.js",
+  "scripts": {
+    "build": "webpack --mode=production --progress --hide-modules"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blizhinm/vue-websockets.git"
+  },
+  "keywords": [
+    "vuejs",
+    "vue",
+    "websocket",
+    "realtime",
+    "vuex"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/blizhinm/vue-websockets",
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/plugin-proposal-class-properties": "^7.1.0",
+    "@babel/plugin-transform-classes": "^7.1.0",
+    "@babel/preset-env": "^7.1.0",
+    "babel-loader": "^8.0.4",
+    "cross-env": "^5.2.0",
+    "webpack": "^4.23.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
