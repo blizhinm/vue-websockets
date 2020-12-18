@@ -11,13 +11,6 @@
     "type": "git",
     "url": "git+https://github.com/blizhinm/vue-websockets.git"
   },
-  "keywords": [
-    "vuejs",
-    "vue",
-    "websocket",
-    "realtime",
-    "vuex"
-  ],
   "license": "MIT",
   "homepage": "https://github.com/blizhinm/vue-websockets",
   "devDependencies": {
